@@ -1,6 +1,6 @@
 # Proyecto-Integrador-Domus
 
-Pagina web interactiva que conecte a cocineros caseros con excedentes de comida con compradores de presupuestos limitados mediante un sistema de subastas en tiempo real, promoviendo la seguridad alimentaria y oportunidades económicas.
+Aplicación web interactiva que conecte a cocineros caseros con excedentes de comida con compradores de presupuestos limitados mediante un sistema de subastas en tiempo real, promoviendo la seguridad alimentaria y oportunidades económicas.
 
 ## Requisitos
 
